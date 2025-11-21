@@ -1,11 +1,18 @@
 # Camunda Platform 7 Engine API
 
-A small extract of the API layer from the greatest process engine ever.
+> A small extract of the API layer from the greatest process engine ever.
 
 [![stable](https://img.shields.io/badge/lifecycle-STABLE-green.svg)](https://github.com/holisticon#open-source-lifecycle)
 [![Camunda 7.23](https://img.shields.io/badge/Camunda%20Version-7.23-orange.svg)](https://docs.camunda.org/manual/7.23/)
 [![Build Status](https://github.com/holunda-io/camunda-bpm-api/actions/workflows/default.yml/badge.svg)](https://github.com/holunda-io/camunda-bpm-api/actions/workflows/default.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.holunda.camunda-api/camunda-bpm-engine-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.holunda.camunda-api/camunda-bpm-engine-api)
+
+# Relocation
+
+This project is **relocated** to https://github.com/holunda-io/c7 and **will be developed** further there.
+Last release produced from this location will be **7.24**
+This repository will be archived in October 2025.
+
 
 ## What is this?
 
